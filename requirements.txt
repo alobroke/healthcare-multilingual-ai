@@ -1,0 +1,23 @@
+# Core RAG
+faiss-cpu
+sentence-transformers
+ollama
+numpy
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Multilingual
+langdetect
+deep-translator
+
+# Utilities
+python-dotenv
+pyyaml
+loguru
+
+# Testing
+pytest
+httpx

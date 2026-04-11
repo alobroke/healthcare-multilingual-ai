@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Secrets
+.env
+
+# Large data files — never push to github
+data/embeddings/
+data/raw/
+logs/
+
+# Models
+models/*.gguf
+models/*.bin
