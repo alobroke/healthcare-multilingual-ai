@@ -1,4 +1,4 @@
-# 🏥 MedGuide AI — Multilingual Medical Guidance Chatbot
+# 🏥 Healthcare-multilingual-ai —— Multilingual Medical Guidance Chatbot
 
 > An end-to-end AI-powered healthcare assistant that answers medical questions and navigates patients to the right hospital department — in any language.
 
@@ -17,7 +17,7 @@ Patients in multilingual countries like India struggle to:
 - Navigate large hospital systems to find the right department
 - Access healthcare guidance outside clinic hours
 
-**MedGuide AI solves this** with a RAG-powered chatbot that works in 17+ languages, grounded in verified medical knowledge — not hallucinations.
+**Healthcare-multilingual-ai —— solves this** with a RAG-powered chatbot that works in 17+ languages, grounded in verified medical knowledge — not hallucinations.
 
 ---
 
@@ -296,4 +296,5 @@ curl -X POST "http://localhost:8000/api/v1/ask" \
 ---
 
 
-> ⚠️ **Disclaimer:** MedGuide AI is for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.
+> ⚠️ **Disclaimer:** Healthcare-multilingual-ai
+ is for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.
