@@ -295,16 +295,5 @@ curl -X POST "http://localhost:8000/api/v1/ask" \
 
 ---
 
-## 👨‍💻 Author
-
-Built with ❤️ as an end-to-end industry-grade AI healthcare system.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 > ⚠️ **Disclaimer:** MedGuide AI is for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.
